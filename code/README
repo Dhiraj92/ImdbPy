@@ -1,0 +1,13 @@
+ImdbPy is the work of Dhiraj Thakur
+You must quote the author when making changes to this program.
+
+Requirements:
+
+On Linux:
+1.gtk-runtime
+2.python-imdbpy
+
+
+Install the python-imdbpy package and gtk-runtime from the software center 
+and then run the program.
+
